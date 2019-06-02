@@ -1,2 +1,2 @@
 # Fluid-Dynamics-Lab
-An Arduino project as an experiment apparatus that investigates industrial mixers and mixing efficiency.
+An Arduino project as an experiment apparatus that investigates mixing efficiency in an industrial mixer simulation.
